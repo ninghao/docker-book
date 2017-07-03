@@ -5,7 +5,7 @@
 * [Docker](README.md)
 * [准备 Docker](get-started.md)
 * [本地开发](local.md)
-* [server](server.md)
+* [服务器](server.md)
 
 ## 附录
 
