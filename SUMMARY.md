@@ -6,7 +6,7 @@
 
 ## 准备
 
-* [准备 Docker](get-started.md)
+* [准备 Docker](docker-prepare.md)
 * [本地](local.md)
 * [服务器](server.md)
 * [加速地址](registry-mirrors.md)
