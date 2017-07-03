@@ -13,8 +13,8 @@
 
 ## 起步
 
-* [image-container-practice](image-container-practice.md)
 * [镜像与容器](image-and-container.md)
+* [练习：理解镜像与容器](image-container-practice.md)
 
 ## 附录
 
