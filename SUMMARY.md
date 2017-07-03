@@ -1,7 +1,8 @@
 # Summary
 
 * [Docker](README.md)
-* [Resources](resources.md)
 
 ## 附录
+
+* [相关资源](resources.md)
 
