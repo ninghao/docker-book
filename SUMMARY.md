@@ -3,6 +3,7 @@
 ## 前奏
 
 * [Docker](README.md)
+* [get-started](get-started.md)
 
 ## 附录
 
