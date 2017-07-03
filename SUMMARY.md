@@ -3,6 +3,7 @@
 ## 前奏
 
 * [Docker](README.md)
+* [Registry-mirrors](registry-mirrors.md)
 
 ## 准备
 
