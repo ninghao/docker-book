@@ -1,6 +1,6 @@
-# My Awesome Book
+# Docker
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+把网站的代码与运行环境放到容器里，把容器搬到服务器上去运行。这样你就可以在任何安装了 Docker 的服务器上，去运行你的网站了。
 
-
+要运行你的网站，你要先去搭建一个运行环境，你要安装一些软件，还要做一些特定的配置。这些动作你可能要重复做很多次，因为你的网站可能要由很多台服务器支持运行，在每一台服务器上，你都需要做同样的配置。当然，你可以使用服务器的自定义镜像，或者自动化配置工具减少这些重复的动作。
 
